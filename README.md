@@ -2,6 +2,8 @@
 
 #  Personal Portfolio Website 
 
+Project Link : https://ambitious-pond-0287cdd10.1.azurestaticapps.net
+
 This is my final project submission for my Future Ready Talent Virtual Internship 2022 .
 
 My Personal Portfolio website using pure HTML, CSS and JavaScript and hosted on azure itself
@@ -28,6 +30,11 @@ These are the 7 most important features to include on My portfolio site
 6.Services
 
 7.Contact Me
+
+# Functionalities 😃
+1.Interactive and responsive UI.
+
+2.Has many graphical and visual innovative effects.
 
 # This web based Portfolio application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -74,5 +81,15 @@ https://ambitious-pond-0287cdd10.1.azurestaticapps.net
 # Link to the Github Repo:
 
 https://github.com/prashantkolhe97/PrashantPortfolio.git
+
+# Tech Stack 💻
+
+Azure(Hosting)
+
+HTML
+
+CSS
+
+JavaScript
 
 
