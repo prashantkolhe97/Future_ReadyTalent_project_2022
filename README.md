@@ -1,19 +1,19 @@
-✨# Future_ReadyTalent_project_2022 ✨
+# ✨Future_ReadyTalent_project_2022 ✨
 
-✨ Personal Portfolio Website ✨
+#  Personal Portfolio Website 
 
 This is my final project submission for my Future Ready Talent Virtual Internship 2022 .
 
 My Personal Portfolio website using pure HTML, CSS and JavaScript and hosted on azure itself
 
-✨Technology Used ✨
+# ✨Technology Used ✨
 
 Azure Service, Static Web Apps
 
 MY personal portfolio website is a professional website that provides information about what I do, what services I have offer, and how to contact me and our company. Portfolio websites are an easy way to promote yourself, your brand, or your business.
 These are the 7 most important features to include on My portfolio site 
 
-✨ Features ✨
+# ✨ Features ✨
 
 1.Home
 
@@ -31,7 +31,7 @@ These are the 7 most important features to include on My portfolio site
 
 This web based Portfolio application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-✨ScreenShot✨
+# ScreenShot 
 
 1.Screenshot of Home Page
 
@@ -67,4 +67,4 @@ This web based Portfolio application has been developed for the accomplishment o
 ![image](https://user-images.githubusercontent.com/91557906/183251018-95d0db3b-ce9f-480c-ab64-69aa12d27003.png)
 
 
-Link to the Website:
+# Link to the Website:
