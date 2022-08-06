@@ -29,7 +29,7 @@ These are the 7 most important features to include on My portfolio site
 
 7.Contact Me
 
-This web based Portfolio application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+# This web based Portfolio application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 # ScreenShot 
 
@@ -68,3 +68,11 @@ This web based Portfolio application has been developed for the accomplishment o
 
 
 # Link to the Website:
+
+https://ambitious-pond-0287cdd10.1.azurestaticapps.net
+
+# Link to the Github Repo:
+
+https://github.com/prashantkolhe97/PrashantPortfolio.git
+
+
