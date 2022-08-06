@@ -73,6 +73,11 @@ These are the 7 most important features to include on My portfolio site
 
 ![image](https://user-images.githubusercontent.com/91557906/183251018-95d0db3b-ce9f-480c-ab64-69aa12d27003.png)
 
+# Azure Portal Screenshot
+
+![image](https://user-images.githubusercontent.com/91557906/183261784-288347cc-4208-4944-8be0-0c17ac2efa97.png)
+
+
 
 # Link to the Website azure link:
 
